@@ -1,0 +1,22 @@
+@import url("https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+.TopLi{
+	border-radius: 25px 25px 0px 0px;
+}
+
+.TopLi:visited,:focus,:active,:hover{
+    outline-style: none;
+    outline-width: 0px !important;
+    outline-color: none !important;
+}
+
+.divTop{
+	border-radius: 25px 25px 0px 0px;
+}
+
+.BottomLi{
+	border-radius: 0px 0px 25px 25px;
+}
+
+.divBottom{
+	border-radius: 0px 0px 25px 25px;
+}
